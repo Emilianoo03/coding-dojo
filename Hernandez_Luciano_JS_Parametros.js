@@ -1,6 +1,5 @@
 /* Desafío de código: Parámetros */
 
-
 /* 
 Utilizando lo que has aprendido sobre funciones y parámetros, crea una función que, dado un nombre, 
 diga "buenos días" a esa persona por su nombre.
