@@ -21,6 +21,7 @@ Característica Stretch 2:
 Ajusta la sentencia condicional para exigir que se cumpla el requisito de altura o el requisito de edad.  
 
 */
+/* Desafío de código: Súbete a ese juego */
 
 // Variable para almacenar la altura de la persona en metros
 let altura = 53; // Debe ser mayor o igual a 1 ( Pueden ser decimales )
